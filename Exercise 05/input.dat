@@ -1,0 +1,10 @@
+PROBABILITY_DENSITY    		0
+TRANSITION_PROBABILITY          0
+X_STARTING_POINT                30.0
+Y_STARTING_POINT                30.0
+Z_STARTING_POINT                30.0
+DELTA                  		1.2
+NBLOCKS                		200
+NSTEPS                 		5000
+
+ENDINPUT
